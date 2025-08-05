@@ -1,0 +1,7 @@
+streamlit
+cohere
+pydantic
+pdfplumber
+python-docx
+mailparser
+numpy
