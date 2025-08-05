@@ -1,7 +1,7 @@
-streamlit
-cohere
-pydantic
-pdfplumber
-python-docx
-mailparser
-numpy
+streamlit==1.35.0
+cohere==5.1.6
+PyMuPDF==1.23.25
+python-docx==1.1.0
+pydantic==2.11.1
+pdfplumber==0.10.3
+numpy==1.24.4
