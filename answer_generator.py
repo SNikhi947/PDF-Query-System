@@ -1,7 +1,6 @@
-# answer_generator.py
 import cohere
 
-co = cohere.Client("korv6munGd0a3gPtoheXu3uHR6vw8xvhucrKYWae")  # Use your actual key
+co = cohere.Client("korv6munGd0a3gPtoheXu3uHR6vw8xvhucrKYWae")  
 
 def generate_answer(user_query, relevant_text):
     prompt = f"""

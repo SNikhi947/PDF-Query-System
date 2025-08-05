@@ -1,6 +1,5 @@
 import pdfplumber
 import docx
-import mailparser
 
 def extract_from_pdf(file_path):
     text = ""
